@@ -1,0 +1,11 @@
+.navbar{
+    /* background-color: black; */
+    /* width: 100%; */
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  text-decoration: none;
+}
